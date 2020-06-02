@@ -1,0 +1,9 @@
+@import url("./_arzamas/resources__logo_arzamas.css");
+@import url("./_n1/resources__logo_n1.css");
+@import url("./_polka/resources__logo_polka.css");
+@import url("./_strelka/resources__logo_strelka.css");
+
+.resources__logo {
+    width: 270px;
+    height: 38px;
+}
