@@ -5,4 +5,5 @@
     width: 183px;
     height:32px;
     z-index: 2;
+    filter: hue-rotate(90deg);
 }
